@@ -15,3 +15,8 @@
 
 
 Machine learning and deep learning also have many subfields, branches, and special techniques. A notable example of this diversity is the separation of **Supervised Learning** and **Unsupervised Learning**.
+
+
+# Applications of Machine Learning
+
+![enter image description here](https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png)
